@@ -1,0 +1,11 @@
+{
+    "scriptFile": "__init__.py",
+    "bindings": [
+        {
+            "name": "powerbiContent",
+            "type": "timerTrigger",
+            "direction": "in",
+            "schedule": "30 1 7 * * *"
+        }
+    ]
+} 

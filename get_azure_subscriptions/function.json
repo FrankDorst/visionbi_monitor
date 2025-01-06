@@ -1,0 +1,11 @@
+{
+    "scriptFile": "__init__.py",
+    "bindings": [
+        {
+            "name": "azureData",
+            "type": "timerTrigger",
+            "direction": "in",
+            "schedule": "0 0 7 * * *"
+        }
+    ]
+} 
